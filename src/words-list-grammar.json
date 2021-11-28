@@ -1,0 +1,100 @@
+{
+  "я": {
+    "type": "pronoun",
+    "sex": null,
+    "time": null,
+    "num": "singular",
+    "person": "first"
+  },
+  "мы": {
+    "type": "pronoun",
+    "sex": null,
+    "time": null,
+    "num": "plural",
+    "person": "first"
+  },
+  "вишня": {
+    "type": "noun",
+    "sex": "female",
+    "time": null,
+    "num": "singular",
+    "person": null
+  },
+  "вишни": {
+    "type": "noun",
+    "sex": "female",
+    "time": null,
+    "num": "plural",
+    "person": null
+  },
+  "виноград": {
+    "type": "noun",
+    "sex": "male",
+    "time": null,
+    "num": "singular",
+    "person": null
+  },
+  "винограды": {
+    "type": "noun",
+    "sex": "male",
+    "time": null,
+    "num": "plural",
+    "person": null
+  },
+  "съесть": {
+    "type": "verb",
+    "sex": null,
+    "time": null,
+    "num": "singular",
+    "person": null
+  },
+  "съела": {
+    "type": "verb",
+    "sex": "female",
+    "time": "past",
+    "num": "singular",
+    "person": "third"
+  },
+  "съел": {
+    "type": "verb",
+    "sex": "male",
+    "time": "past",
+    "num": "singular",
+    "person": "first"
+  },
+  "съест": {
+    "type": "verb",
+    "sex": null,
+    "time": "future",
+    "num": "singular",
+    "person": "third"
+  },
+  "съем": {
+    "type": "verb",
+    "sex": null,
+    "time": "future",
+    "num": "singular",
+    "person": "first"
+  },
+  "съедят": {
+    "type": "verb",
+    "sex": null,
+    "time": "future",
+    "num": "plural",
+    "person": "third"
+  },
+  "съедим": {
+    "type": "verb",
+    "sex": null,
+    "time": "future",
+    "num": "plural",
+    "person": "first"
+  },
+  "съели": {
+    "type": "verb",
+    "sex": null,
+    "time": "past",
+    "num": "plural",
+    "person": null
+  }
+}
